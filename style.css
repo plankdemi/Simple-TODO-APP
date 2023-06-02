@@ -1,0 +1,29 @@
+h1,
+p {
+  text-align: center;
+  margin: 1rem 1rem 1rem 1rem;
+  padding: 1rem 1rem 1rem 1rem;
+}
+button,
+input {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin: 1rem auto;
+}
+input {
+  background-color: rgb(0, 255, 0);
+  color: black;
+}
+button {
+  display: inline-block;
+  margin: 0 auto;
+}
+.btn-container {
+  text-align: center;
+}
